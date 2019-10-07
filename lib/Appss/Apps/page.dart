@@ -92,7 +92,7 @@ class Page extends StatelessWidget {
                           },
                           child: Center(
                             child: Text(
-                              'Login with Google',
+                              'View Records',
                               style: TextStyle(
                                 fontSize: 18.0,
                                 color: Colors.white,
